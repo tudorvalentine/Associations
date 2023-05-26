@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable-v24/arrow_back-48px.xml" value="0.259" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.259" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable-v24/password-24px.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/arrow_back_24.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/ic_launcher_background.xml" value="0.259" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/ic_lock_24.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/ic_lock_48.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/drawable/ic_logout.xml" value="0.262" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/font/Open Sans.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/font/open_sans_extrabold.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.212109375" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout-w936dp/activity_login.xml" value="0.192578125" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/action_activity.xml" value="0.264" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/activity_login.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/associations_activity.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/auth.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/auth_reg.xml" value="0.4" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/consp.xml" value="0.4" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/fragment_reg_auth.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/item_list.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/reg.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/layout/toolbar.xml" value="0.4" />
+        <entry key="..\:/Users/tudor/Documents/GitHub/AugmentedImages/app/src/main/res/xml/network_security_config.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

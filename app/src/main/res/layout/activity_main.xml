@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.tudorvalentine.augmentedimages.activity.AugmentedImageActivity">
+
+    <fragment
+        android:id="@+id/ux_fragment"
+        android:name="com.tudorvalentine.augmentedimages.activity.AugmentedImageFragment"
+        android:layout_width="match_parent"
+        android:layout_height="695dp"
+        android:layout_gravity="center" />
+
+    <ImageView
+        android:id="@+id/image_view_fit_to_scan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/text_info"
+        android:scaleType="fitCenter"
+        android:src="@drawable/fit" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="175dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/text_info"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+
+
+</FrameLayout>

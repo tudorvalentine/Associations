@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar:core:1.35.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cd5133db246d23397f5b3f570e19cb9c/transformed/jetified-core-1.35.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd5133db246d23397f5b3f570e19cb9c/transformed/jetified-core-1.35.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd5133db246d23397f5b3f570e19cb9c/transformed/jetified-core-1.35.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ar/core/1.35.0/ee4d55c8b9ceba42b7faa579924892015321cb73/core-1.35.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Augmented Images</string>
+    <string name="text_info">Plasați imaginea în dreptunghi</string>
+    <string name="btn_string">TRECE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="recognized_image">Imaginea recunoscută</string>
+    <string name="signin">Autentificare</string>
+    <string name="signup">Înregistrare</string>
+    <string name="wellcome">Bine ați venit!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_login">Username</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="app_description">Descoperă ușurința de accesare a conspectelor.Caută o imagine sau picteaz-o singur, apoi prin intermediul aplicației asociază imaginea cu un conspect PDF.\n\nÎnregistrazăte sau autentificăte.</string>
+    <string name="todo_logout">Log out</string>
+    <string name="action_camera">Scanează</string>
+    <string name="action_camera_description">Scanează fotografia asociată unui conspect</string>
+    <string name="action_visualize">Asocieri</string>
+    <string name="action_sync">Sincronizează</string>
+    <string name="action_sync_description">Sincronizează asocierile create</string>
+    <string name="action_visualize_description">Vizualizează asocierile disponibile</string>
+    <string name="dashboard">+</string>
+    <string name="content_description_dashboard">hz</string>
+    <string name="fab_content_desc">plus</string>
+    <string name="extended_fab_label">CREATE</string>
+
+
+</resources>

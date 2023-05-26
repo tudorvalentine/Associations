@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: C (1)" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/589958d8d2c520fd618f951c603f1e58/transformed/jetified-tools/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/589958d8d2c520fd618f951c603f1e58/transformed/jetified-tools/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/589958d8d2c520fd618f951c603f1e58/transformed/jetified-tools/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/589958d8d2c520fd618f951c603f1e58/transformed/jetified-tools/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
